@@ -219,6 +219,12 @@ Animates elements with varying durations, distances, and delays based on their c
 
 - I have used Netlify.com to host my portfolio website, and here is the link for my portforlio website
 
+- The website is mobile friendly and can be viewed in any devices
+
+
+  Enjoyed working on this portfolio project
+  
+
 
 
   
