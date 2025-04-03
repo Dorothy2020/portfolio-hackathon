@@ -1,5 +1,30 @@
 # portfolio-hackathon
 
+- I designed a low-fidelity mockup to structure my portfolio website before developing the actual design. This helped in planning the layout, user flow, and key sections efficiently
+ 
+# 2. Designing Tool that I  Use: 
+
+🔹 Sketching on Paper – Quick and easy way to plan layouts.
+
+🔹 Wireframing Tools – Figma( for Mockup or High fidelity Wireframe)
+
+
+Low Fidelity Mockup Design ( book sketch)
+
+The key sections are( Home, About, Qualification , Service Projects and Contacts)
+
+As shown below 
+![lowFidelityWireframe](https://github.com/user-attachments/assets/b7a1b24f-1035-4e63-bf94-779608daf2a6)
+
+High Fidelity Mockup
+
+https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothyhttps://dribbble.com/shots/25858870-portfolio-web?utm_source=Clipboard_Shot&utm_campaign=wangara&utm_content=portfolio%20web&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=wangara&utm_content=portfolio%20web&utm_medium=Social_Share-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+
+
+
+
+
+
 ## Technical Documentatio: Dorothy  PortFolio Web Project Setup
 
 # Project Overview
