@@ -20,7 +20,7 @@ As shown below
 
 - It involves designing a static real website but has no functionality
 
-- For mackbook pro 16 i checked on the folloeing scaling and Responsiveness
+- For mackbook pro 16 i checked on the following scaling and Responsiveness
   
 - I check on typography and spacing
   
