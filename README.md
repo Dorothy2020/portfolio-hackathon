@@ -18,7 +18,7 @@ This project showcases the journey of designing and developing a personal portfo
 
 ## 🖥 Operating System Used
 
-- **macOS** (Tested on MacBook Pro 16")
+- **windows 10/11
 - Compatible with all major OS that supports VS Code, Git, and modern browsers.
 
 ---
