@@ -107,7 +107,6 @@ Swiper.js – Interactive slider on the portfolio section
 <section id="portfolio">	Displays projects using a Swiper slider, with project titles, links, and hover effects.
 
   
-<section id="contact">	Contact form for visitors to reach out. Includes fields for name, email, message, and a submit button.
 
   
 <footer>	Social links, copyright info, and footer navigation.
