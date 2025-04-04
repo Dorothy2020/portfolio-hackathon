@@ -160,7 +160,7 @@ git branch -M main
 
 git push -u origin main
 
-- Then search netlify.com and open your repository
+- Then search netlify.com and connect it to github account
 
 # 📱 Responsive Design
 
