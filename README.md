@@ -91,11 +91,11 @@ mkdir dorothyPortfolio
 
 cd dorothyPortfolio
 
-Step 2: Create Asset Folders
+# Step 2: Create Asset Folders
 
 mkdir -p assets/css assets/js assets/img
 
-Step 3: Create Files
+# Step 3: Create Files
 
 touch index.html
 
