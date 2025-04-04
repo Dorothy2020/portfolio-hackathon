@@ -239,8 +239,7 @@ git push -u origin main
 - The website is mobile friendly and can be viewed in any devices
 
 
-  Enjoyed working on this portfolio project
-  
+# # the end  
 
 
 
