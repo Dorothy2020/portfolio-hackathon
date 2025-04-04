@@ -38,6 +38,9 @@ This project showcases the journey of designing and developing a personal portfo
 🔗 [View Figma Prototype](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)  
 🔗 [View Full Design File](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
 
+🔗 [Presentation slide](https://docs.google.com/presentation/d/1NbeNREZOF1qQvjaa2HRZcNkAdChUv-1EKg9KDKeaq8Q/edit?usp=sharing)
+
+
 ---
 
 ## 📁 Project Structure
