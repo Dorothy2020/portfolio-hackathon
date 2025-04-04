@@ -44,7 +44,7 @@ I started with hand-drawn sketches to plan layout and user flow across key secti
 
 ### 2. High-Fidelity Mockup (Figma Design)
 
-I created a clickable high-fidelity prototype using Figma, with a focus on:
+I created a  high-fidelity prototype using Figma, with a focus on:
 
 - Typography & spacing  
 - Layout scaling (tested on MacBook Pro 16”)  
