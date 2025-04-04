@@ -1,4 +1,3 @@
-
 # 🌐 Dorothy’s Portfolio Website – Hackathon Edition
 
 ![Netlify](https://img.shields.io/badge/deployed-Netlify-brightgreen)
@@ -7,147 +6,143 @@
 ![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
 ![Responsive](https://img.shields.io/badge/responsive-yes-blue)
 
-> A modern, responsive portfolio built from a low-fidelity sketch to a fully hosted site.
+> A modern, responsive portfolio built from a low-fidelity sketch to a fully hosted site on Netlify.
+
+---
 
 ## 📌 Overview
 
-This project showcases the journey of designing and developing a personal portfolio website—from wireframing to live deployment. It highlights key design tools used, technical implementation, and steps to recreate or contribute to the project.
+This project showcases the journey of designing and developing a personal portfolio website—from paper wireframes to live deployment. It highlights tools used in design, code structure, and how to recreate or contribute to the project.
 
 ---
 
 ## 🖥 Operating System Used
 
-- **macOS** (Tested using MacBook Pro 16)
-- Compatible with any OS that supports VS Code, Git, and modern browsers.
+- **macOS** (Tested on MacBook Pro 16")
+- Compatible with all major OS that supports VS Code, Git, and modern browsers.
 
 ---
 
 ## 🎨 Design Process
 
-### 1. Low-Fidelity Mockup
+### 1. Low-Fidelity Wireframe
 
-- Sketched on paper before diving into development.
+- Initial sketch on paper to plan layout and sections.
 
 ![Low Fidelity Wireframe](https://github.com/user-attachments/assets/b7a1b24f-1035-4e63-bf94-779608daf2a6)
 
-### 2. High-Fidelity Mockup (Figma)
+### 2. High-Fidelity Design in Figma
 
-- Designed in **Figma** for desktop preview (MacBook Pro 16).
-- Considered **scaling**, **responsiveness**, **typography**, and **alignment**.
+- Built in **Figma** with consideration for layout, responsiveness, and user experience.
 
-🔗 **Figma Prototype:**  
-[View Prototype](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)  
-[View Design File](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
+🔗 [View Figma Prototype](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)  
+🔗 [View Full Design File](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
 
 ---
 
-## 🗂 Project Setup & Folder Structure
+## 📁 Project Structure
 
-```
-dorothyPortfolio/
-│
-├── index.html
-└── assets/
-    ├── css/
-    │   └── main.css
-    ├── js/
-    │   └── main.js
-    └── img/
-```
+![portfolioo](https://github.com/user-attachments/assets/0fc8179a-66b7-44e9-b5e6-f6b7829e0eb2)
+
 
 ---
 
-## 🛠 How to Clone & Run Locally
+🛠 How to Clone & Run Locally
 
-```bash
-# Step 1: Clone the repository
+# Clone the repository
+- Open your terminal and run the following command:
 git clone https://github.com/Dorothy2020/portfolio-hackathon.git
 
-# Step 2: Navigate into the project folder
+# Navigate into the folder
+- Use this command to go into the project directory:
+
 cd portfolio-hackathon
 
-# Step 3: Open in VS Code or any code editor
+# Open the project in your code editor
+- If you're using VS Code, simply run:
 code .
-```
 
----
 
-## 🧪 Technologies Used
+🧪 Technologies Used
+HTML5 – Page structure
 
-- **HTML5** – Structure  
-- **CSS3** – Styling  
-- **JavaScript (Vanilla)** – Interactivity  
-- **Remix Icons** – UI Icons  
-- **Google Fonts** – Typography  
-- **Swiper.js** – Slider functionality  
+CSS3 – Styling & layout
 
----
+JavaScript (Vanilla) – Interactivity
 
-## 📁 File Descriptions
+Remix Icons – Clean UI icons
 
-### ✅ `index.html`
-Main structure of the portfolio.
+Google Fonts – Typography
 
-### ✅ `main.css`
-Styling using custom variables, layout, spacing, and media queries.
+Swiper.js – Interactive slider on the portfolio section
 
-### ✅ `main.js`
-JavaScript for scroll effects, toggles, and dynamic behaviors.
+📑 File Descriptions
+✅ index.html – Main HTML Structure
+This file is the heart of the portfolio and includes:
 
----
+Section	Description
+<header>	Contains the navigation bar with links to all sections. Includes responsive toggle for mobile.
+<section id="home">	Hero section introducing Dorothy, with name, profession, and CTA (Call-to-action) button.
+<section id="about">	A short bio with a profile image, goals, and personal story.
+<section id="services">	Highlights the skills/services offered (e.g., UI/UX Design, Web Development, Branding). Each has an icon and short description.
+<section id="portfolio">	Displays projects using a Swiper slider, with project titles, links, and hover effects.
+<section id="contact">	Contact form for visitors to reach out. Includes fields for name, email, message, and a submit button.
+<footer>	Social links, copyright info, and footer navigation.
+✅ main.css – Styling & Responsiveness
+Key features:
 
-## 🚀 Deployment
+CSS Variables for easy theme customization.
 
-🔗 **[Live Site on Netlify](https://dorothy-akoth.netlify.app/)**
+Custom Scrollbar styling.
 
-To deploy your own version:
+Media Queries to ensure a responsive layout across all screen sizes.
 
-```bash
+Utility Classes for consistent spacing and typography.
+
+Transitions & Hover Effects to enhance user experience.
+
+✅ main.js – Interactivity & Animation
+Handles:
+
+Responsive Navbar Toggle (mobile menu)
+
+Sticky Header on scroll
+
+ScrollReveal.js Integration for smooth fade-in animations
+
+Swiper.js Setup for the project carousel
+
+Scroll-to-top Button behavior
+
+🚀 Deployment
+The site is hosted on Netlify.
+🔗 Live Demo
+
+- To deploy your version:
+
+# Push to GitHub
+
 git init
+
 git add .
+
 git commit -m "Initial commit"
+
 git remote add origin https://github.com/your-username/your-repo-name.git
+
 git branch -M main
+
 git push -u origin main
-```
 
-Then connect the repo to [Netlify.com](https://www.netlify.com/).
+- Then search netlify.com and open your repository
 
----
+📱 Responsive Design
 
-## 📱 Responsiveness
+✅ Mobile-First Approach
 
-- Mobile-friendly design
-- Smooth scroll and animations
-- Optimized across device sizes
+✅ Tablet & Desktop Friendly
 
----
+✅ Tested on Chrome, Safari, and Firefox
 
-## 📌 Want to Contribute or Fork?
+✅ Smooth transitions and animations
 
-```bash
-# Fork the repo and make your changes
-# Submit a pull request to contribute
-```
-
----
-
-## ✅ To Do / Future Improvements
-
-- Add blog section  
-- Include animations on project cards  
-- Backend integration for contact form  
-
----
-
-## 📫 Contact
-
-- 📧 Email: [dorothy@example.com](mailto:dorothy@example.com)  
-- 💻 GitHub: [@Dorothy2020](https://github.com/Dorothy2020)  
-- 🌍 Website: [dorothy-akoth.netlify.app](https://dorothy-akoth.netlify.app/)
-
----
-
-## 🏁 The End
-
-Thanks for checking out the project! 🎉 Feel free to leave feedback or contribute.
