@@ -1,155 +1,153 @@
-# portfolio-hackathon 
+# portfolio-hackathon
 
+🎨 Dorothy's Portfolio Hackathon
+A portfolio project designed and developed to showcase my skills, projects, qualifications, and contact information.
 
-# 🌐 Dorothy’s Portfolio Website – Hackathon Edition
+🖥 Operating System Used
+Windows 10/11 (You can also run this project on macOS or Linux.)
 
-![Netlify](https://img.shields.io/badge/deployed-Netlify-brightgreen)
-![HTML5](https://img.shields.io/badge/html-5-orange)
-![CSS3](https://img.shields.io/badge/css-3-blue)
-![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
-![Responsive](https://img.shields.io/badge/responsive-yes-blue)
+📁 Project Overview
+This document provides a technical overview of the project — including folder structure, design tools, setup process, and code functionality.
 
-> A modern, responsive portfolio built from a low-fidelity sketch to a fully hosted site.
+✍️ Step-by-Step Design Process
+1. Low-Fidelity Mockup (Sketch on Paper)
+I began with a hand-drawn low-fidelity sketch to visualize key sections like:
 
-## 📌 Overview
+Home
 
-This project showcases the journey of designing and developing a personal portfolio website—from wireframing to live deployment. It highlights key design tools used, technical implementation, and steps to recreate or contribute to the project.
+About
 
----
+Qualifications
 
-## 🖥 Operating System Used
+Services
 
-- **macOS** (Tested using MacBook Pro 16)
-- Compatible with any OS that supports VS Code, Git, and modern browsers.
+Projects
 
----
+Contact
 
-## 🎨 Design Process
+📷 Example Sketch:
 
-### 1. Low-Fidelity Mockup
+2. High-Fidelity Mockup (Figma Design)
+I then created a high-fidelity prototype using Figma, focusing on:
 
-- Sketched on paper before diving into development.
+Typography & spacing
 
-![Low Fidelity Wireframe](https://github.com/user-attachments/assets/b7a1b24f-1035-4e63-bf94-779608daf2a6)
+Layout scaling (MacBook Pro 16” view)
 
-### 2. High-Fidelity Mockup (Figma)
+Text alignment
 
-- Designed in **Figma** for desktop preview (MacBook Pro 16).
-- Considered **scaling**, **responsiveness**, **typography**, and **alignment**.
+Responsiveness
 
-🔗 **Figma Prototype:**  
-[View Prototype](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)  
-[View Design File](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
+🔗 View the Figma Prototype:
 
----
+Prototype (Preview Mode)
 
-## 🗂 Project Setup & Folder Structure
+Design Link
 
-```
+🛠 Technologies Used
+HTML – Structure
+
+CSS – Styling
+
+JavaScript – Interactivity
+
+Google Fonts – Custom fonts
+
+Remix Icons – Iconography
+
+Swiper.js – Image slider functionality
+
+📁 Folder Structure
+css
+Copy
+Edit
 dorothyPortfolio/
 │
 ├── index.html
-└── assets/
-    ├── css/
-    │   └── main.css
-    ├── js/
-    │   └── main.js
-    └── img/
-```
+├── assets/
+│   ├── css/
+│   │   └── main.css
+│   ├── js/
+│   │   └── main.js
+│   └── img/
+🖼 Example Screenshot of Project Structure:
 
----
-
-## 🛠 How to Clone & Run Locally
-
-```bash
-# Step 1: Clone the repository
+🚀 Getting Started – How to Clone the Project
+🔁 Clone Repository
+bash
+Copy
+Edit
 git clone https://github.com/Dorothy2020/portfolio-hackathon.git
-
-# Step 2: Navigate into the project folder
 cd portfolio-hackathon
+⚙️ Manual Setup Instructions
+Step 1: Create the Project Folder
+bash
+Copy
+Edit
+cd ~/Desktop
+mkdir dorothyPortfolio
+cd dorothyPortfolio
+Step 2: Create Asset Folders
+bash
+Copy
+Edit
+mkdir -p assets/css assets/js assets/img
+Step 3: Create Files
+bash
+Copy
+Edit
+touch index.html
+touch assets/css/main.css
+touch assets/js/main.js
+📑 File Summaries
+index.html
+A semantic HTML layout for a personal portfolio, divided into structured sections.
 
-# Step 3: Open in VS Code or any code editor
-code .
-```
+main.css
+A responsive CSS file with:
 
----
+CSS variables (colors, fonts, spacing)
 
-## 🧪 Technologies Used
+Reusable components (buttons, containers, grid)
 
-- **HTML5** – Structure  
-- **CSS3** – Styling  
-- **JavaScript (Vanilla)** – Interactivity  
-- **Remix Icons** – UI Icons  
-- **Google Fonts** – Typography  
-- **Swiper.js** – Slider functionality  
+Section styles (hero, about, qualifications, services, etc.)
 
----
+Responsive design via media queries
 
-## 📁 File Descriptions
+Custom scrollbar
 
-### ✅ `index.html`
-Main structure of the portfolio.
+Navigation and header styling
 
-### ✅ `main.css`
-Styling using custom variables, layout, spacing, and media queries.
+main.js
+JS functionality for:
 
-### ✅ `main.js`
-JavaScript for scroll effects, toggles, and dynamic behaviors.
+Navigation menu toggle
 
----
+ScrollReveal animations
 
-## 🚀 Deployment
+Responsive header scroll behavior
 
-🔗 **[Live Site on Netlify](https://dorothy-akoth.netlify.app/)**
+Smooth UX interactions and transitions
 
-To deploy your own version:
+🌐 Hosting
+The portfolio is live and mobile-friendly via Netlify.
 
-```bash
+🔗 Live Website
+👉 Visit My Portfolio Website
+
+📤 Push to GitHub (Initial Setup)
+bash
+Copy
+Edit
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
 git branch -M main
 git push -u origin main
-```
+✅ Final Notes
+The website is responsive and can be viewed across all devices.
 
-Then connect the repo to [Netlify.com](https://www.netlify.com/).
+Designed with scalability and user experience in mind.
 
----
-
-## 📱 Responsiveness
-
-- Mobile-friendly design
-- Smooth scroll and animations
-- Optimized across device sizes
-
----
-
-## 📌 Want to Contribute or Fork?
-
-```bash
-# Fork the repo and make your changes
-# Submit a pull request to contribute
-```
-
----
-
-## ✅ To Do / Future Improvements
-
-- Add blog section  
-- Include animations on project cards  
-- Backend integration for contact form  
-
----
-
-## 📫 Contact
-
-- 📧 Email: [dorothy@example.com](mailto:dorothy@example.com)  
-- 💻 GitHub: [@Dorothy2020](https://github.com/Dorothy2020)  
-- 🌍 Website: [dorothy-akoth.netlify.app](https://dorothy-akoth.netlify.app/)
-
----
-
-## 🏁 The End
-
-Thanks for checking out the project! 🎉 Feel free to leave feedback or contribute.
+📌 Thanks for checking out my project! Feel free to fork, clone, or contribute. 😊
