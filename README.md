@@ -81,9 +81,9 @@ Swiper.js – Interactive slider on the portfolio section
 
 # ✅ index.html – Main HTML Structure
 
-This file is the heart of the portfolio and includes:
+- This file is the heart of the portfolio and includes:
 
-Section	Description
+## Section	Description
 
 <header>	Contains the navigation bar with links to all sections. Includes responsive toggle for mobile.
 
