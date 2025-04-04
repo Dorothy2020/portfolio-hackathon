@@ -51,7 +51,7 @@ This project showcases the journey of designing and developing a personal portfo
 
 # Clone the repository
 - Open your terminal and run the following command:
-- 
+  
 git clone https://github.com/Dorothy2020/portfolio-hackathon.git
 
 # Navigate into the folder
