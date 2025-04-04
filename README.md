@@ -1,153 +1,83 @@
 # portfolio-hackathon
 
-🎨 Dorothy's Portfolio Hackathon
+# 🎨 Dorothy's Portfolio Hackathon
+
+![Made With HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![Made With CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A portfolio project designed and developed to showcase my skills, projects, qualifications, and contact information.
 
-🖥 Operating System Used
-Windows 10/11 (You can also run this project on macOS or Linux.)
+---
 
-📁 Project Overview
-This document provides a technical overview of the project — including folder structure, design tools, setup process, and code functionality.
+## 🖥 Operating System Used
 
-✍️ Step-by-Step Design Process
-1. Low-Fidelity Mockup (Sketch on Paper)
-I began with a hand-drawn low-fidelity sketch to visualize key sections like:
+- Windows 10/11  
+- (Also compatible with macOS and Linux)
 
-Home
+---
 
-About
+## 📁 Project Overview
 
-Qualifications
+This portfolio demonstrates a clean, responsive personal website using HTML, CSS, and JavaScript. The project also includes mockup design steps, file structure, development tools, and hosting.
 
-Services
+---
 
-Projects
+## ✍️ Step-by-Step Design Process
 
-Contact
+### 1. Low-Fidelity Mockup (Sketch on Paper)
 
-📷 Example Sketch:
+I started with hand-drawn sketches to plan layout and user flow across key sections:
 
-2. High-Fidelity Mockup (Figma Design)
-I then created a high-fidelity prototype using Figma, focusing on:
+- Home  
+- About  
+- Qualifications  
+- Services  
+- Projects  
+- Contact
 
-Typography & spacing
+📷 **Example Sketch:**  
+![Low Fidelity Wireframe](https://github.com/user-attachments/assets/b7a1b24f-1035-4e63-bf94-779608daf2a6)
 
-Layout scaling (MacBook Pro 16” view)
+---
 
-Text alignment
+### 2. High-Fidelity Mockup (Figma Design)
 
-Responsiveness
+I created a clickable high-fidelity prototype using Figma, with a focus on:
 
-🔗 View the Figma Prototype:
+- Typography & spacing  
+- Layout scaling (tested on MacBook Pro 16”)  
+- Text alignment and responsiveness  
 
-Prototype (Preview Mode)
+🔗 **Figma Preview:**  
+[🌐 View Prototype (Preview Mode)](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0)
 
-Design Link
+🔗 **Figma Design File:**  
+[📁 Open Design Link](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
 
-🛠 Technologies Used
-HTML – Structure
+---
 
-CSS – Styling
+## 🛠 Technologies Used
 
-JavaScript – Interactivity
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (ES6)** – Interactivity  
+- **Google Fonts** – Custom typography  
+- **Remix Icons** – Iconography  
+- **Swiper.js** – Image sliders
 
-Google Fonts – Custom fonts
+---
 
-Remix Icons – Iconography
+## 📁 Folder Structure
 
-Swiper.js – Image slider functionality
-
-📁 Folder Structure
-css
-Copy
-Edit
+```bash
 dorothyPortfolio/
 │
 ├── index.html
-├── assets/
-│   ├── css/
-│   │   └── main.css
-│   ├── js/
-│   │   └── main.js
-│   └── img/
-🖼 Example Screenshot of Project Structure:
-
-🚀 Getting Started – How to Clone the Project
-🔁 Clone Repository
-bash
-Copy
-Edit
-git clone https://github.com/Dorothy2020/portfolio-hackathon.git
-cd portfolio-hackathon
-⚙️ Manual Setup Instructions
-Step 1: Create the Project Folder
-bash
-Copy
-Edit
-cd ~/Desktop
-mkdir dorothyPortfolio
-cd dorothyPortfolio
-Step 2: Create Asset Folders
-bash
-Copy
-Edit
-mkdir -p assets/css assets/js assets/img
-Step 3: Create Files
-bash
-Copy
-Edit
-touch index.html
-touch assets/css/main.css
-touch assets/js/main.js
-📑 File Summaries
-index.html
-A semantic HTML layout for a personal portfolio, divided into structured sections.
-
-main.css
-A responsive CSS file with:
-
-CSS variables (colors, fonts, spacing)
-
-Reusable components (buttons, containers, grid)
-
-Section styles (hero, about, qualifications, services, etc.)
-
-Responsive design via media queries
-
-Custom scrollbar
-
-Navigation and header styling
-
-main.js
-JS functionality for:
-
-Navigation menu toggle
-
-ScrollReveal animations
-
-Responsive header scroll behavior
-
-Smooth UX interactions and transitions
-
-🌐 Hosting
-The portfolio is live and mobile-friendly via Netlify.
-
-🔗 Live Website
-👉 Visit My Portfolio Website
-
-📤 Push to GitHub (Initial Setup)
-bash
-Copy
-Edit
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
-git branch -M main
-git push -u origin main
-✅ Final Notes
-The website is responsive and can be viewed across all devices.
-
-Designed with scalability and user experience in mind.
-
-📌 Thanks for checking out my project! Feel free to fork, clone, or contribute. 😊
+└── assets/
+    ├── css/
+    │   └── main.css
+    ├── js/
+    │   └── main.js
+    └── img/
