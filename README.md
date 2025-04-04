@@ -216,8 +216,24 @@ ScrollReveal Animations:
 Animates elements with varying durations, distances, and delays based on their class.
 
 ## Hosting
+push your code to github using the following commands:
+git init
+
+git add .
+
+git commit -m "first initial
+
+git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
+
+git branch -M main
+
+git push -u origin main
+
+   
 
 - I have used Netlify.com to host my portfolio website, and here is the link for my portforlio website
+ #  Here is my portfolio website.
+  https://dorothy-akoth.netlify.app/
 
 - The website is mobile friendly and can be viewed in any devices
 
