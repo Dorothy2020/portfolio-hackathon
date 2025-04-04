@@ -138,7 +138,7 @@ Scroll-to-top Button behavior
 
 - The site is hosted on Netlify.
   
-🔗 Live Demo
+🔗 https://dorothy-akoth.netlify.app/
 
 - To deploy your version:
 
@@ -167,4 +167,7 @@ git push -u origin main
 ✅ Tested on Chrome, Safari, and Firefox
 
 ✅ Smooth transitions and animations
+
+
+Thank you for checking out my website 
 
