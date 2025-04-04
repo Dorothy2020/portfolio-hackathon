@@ -81,3 +81,89 @@ dorothyPortfolio/
     ├── js/
     │   └── main.js
     └── img/
+
+
+🖼 Project Structure Screenshot:
+
+
+🚀 Getting Started – Clone This Project
+🔁 Clone Repository
+bash
+Copy
+Edit
+git clone https://github.com/Dorothy2020/portfolio-hackathon.git
+cd portfolio-hackathon
+⚙️ Manual Setup Instructions
+Step 1: Create the Project Folder
+bash
+Copy
+Edit
+cd ~/Desktop
+mkdir dorothyPortfolio
+cd dorothyPortfolio
+Step 2: Create Asset Folders
+bash
+Copy
+Edit
+mkdir -p assets/css assets/js assets/img
+Step 3: Create Files
+bash
+Copy
+Edit
+touch index.html
+touch assets/css/main.css
+touch assets/js/main.js
+📑 File Summaries
+index.html
+Semantic HTML5 layout covering all key portfolio sections.
+
+main.css
+Contains:
+
+CSS Variables (colors, fonts)
+
+Layout & Responsive Design
+
+Navigation/Header Styling
+
+Scrollbar Customization
+
+Reusable UI Components
+
+main.js
+Includes:
+
+Navigation Menu Toggle
+
+ScrollReveal Animations
+
+Sticky Header Scroll Behavior
+
+Smooth Interaction Effects
+
+🌐 Hosting
+This site is deployed using Netlify and is optimized for all screen sizes.
+
+🔗 Live Portfolio Website:
+👉 https://dorothy-akoth.netlify.app/
+
+📤 Push Project to GitHub
+bash
+Copy
+Edit
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
+git branch -M main
+git push -u origin main
+✅ Final Notes
+✅ Fully responsive across mobile, tablet, and desktop
+
+✅ Built with clean, semantic HTML and modular CSS
+
+✅ Designed with scalability and readability in mind
+
+
+
+Thanks for checking out my project! 
