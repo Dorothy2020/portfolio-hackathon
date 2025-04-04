@@ -154,7 +154,7 @@ git add .
 
 git commit -m "Initial commit"
 
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
 
 git branch -M main
 
