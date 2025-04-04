@@ -78,29 +78,37 @@ Swiper.js – Interactive slider on the portfolio section
 
 📑 File Descriptions
 
-✅ index.html – Main HTML Structure
+
+# ✅ index.html – Main HTML Structure
 
 This file is the heart of the portfolio and includes:
 
 Section	Description
 
 <header>	Contains the navigation bar with links to all sections. Includes responsive toggle for mobile.
+
   
 <section id="home">	Hero section introducing Dorothy, with name, profession, and CTA (Call-to-action) button.
+
   
 <section id="about">	A short bio with a profile image, goals, and personal story.
+
   
 <section id="services">	Highlights the skills/services offered (e.g., UI/UX Design, Web Development, Branding). Each has an icon and short description.
+
   
 <section id="portfolio">	Displays projects using a Swiper slider, with project titles, links, and hover effects.
+
   
 <section id="contact">	Contact form for visitors to reach out. Includes fields for name, email, message, and a submit button.
+
   
 <footer>	Social links, copyright info, and footer navigation.
-  
-✅ main.css – Styling & Responsiveness
 
-Key features:
+  
+# ✅ main.css – Styling & Responsiveness
+
+- Key features:
 
 CSS Variables for easy theme customization.
 
@@ -112,9 +120,9 @@ Utility Classes for consistent spacing and typography.
 
 Transitions & Hover Effects to enhance user experience.
 
-✅ main.js – Interactivity & Animation
+# ✅ main.js – Interactivity & Animation
 
-Handles:
+- Handles:
 
 Responsive Navbar Toggle (mobile menu)
 
@@ -126,8 +134,10 @@ Swiper.js Setup for the project carousel
 
 Scroll-to-top Button behavior
 
-🚀 Deployment
-The site is hosted on Netlify.
+# 🚀 Deployment
+
+- The site is hosted on Netlify.
+  
 🔗 Live Demo
 
 - To deploy your version:
@@ -148,7 +158,7 @@ git push -u origin main
 
 - Then search netlify.com and open your repository
 
-📱 Responsive Design
+# 📱 Responsive Design
 
 ✅ Mobile-First Approach
 
