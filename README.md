@@ -69,7 +69,101 @@ I created a  high-fidelity prototype using Figma, with a focus on:
 
 ---
 
+🖼 Project Structure Screenshot:
 
+![portfolioo](https://github.com/user-attachments/assets/033cea04-943e-49a6-8cf1-1c7f073ee2e5)
+
+🚀 Getting Started
+
+🔁 Clone the Repository
+
+
+git clone https://github.com/Dorothy2020/portfolio-hackathon.git
+
+cd portfolio-hackathon
+
+⚙️ Manual Setup
+Step 1: Create the Project Folder
+
+cd ~/Desktop
+
+mkdir dorothyPortfolio
+
+cd dorothyPortfolio
+
+Step 2: Create Asset Folders
+
+mkdir -p assets/css assets/js assets/img
+
+Step 3: Create Files
+
+touch index.html
+
+touch assets/css/main.css
+
+touch assets/js/main.js
+
+📑 File Overview
+
+index.html
+
+Main layout of the website, organized into key sections like home, about, projects, services, and contact.
+
+main.css
+Handles all styling. Includes:
+
+CSS variables
+
+Responsive layout
+
+Header/nav styling
+
+Scrollbar and component styles
+
+main.js
+
+Adds functionality such as:
+
+Menu toggle
+
+ScrollReveal animations
+
+Sticky header on scroll
+
+Smooth transitions
+
+🌐 Hosting
+
+The site is deployed on Netlify and works great on all screen sizes.
+
+🔗 Live Portfolio Website
+
+📤 Pushing to GitHub
+
+If you're starting fresh and want to push this project:
+
+
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
+
+git branch -M main
+
+git push -u origin main
+
+✅ Final Notes
+
+✅ Fully responsive (mobile, tablet, desktop)
+
+✅ Simple, clean, and accessible UI
+
+✅ Easy to scale or modify
+
+Thanks for checking out my project! ✨
 
 
 
