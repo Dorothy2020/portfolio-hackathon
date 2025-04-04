@@ -217,11 +217,12 @@ Animates elements with varying durations, distances, and delays based on their c
 
 ## Hosting
 push your code to github using the following commands:
+
 git init
 
 git add .
 
-git commit -m "first initial
+git commit -m "first initial"
 
 git remote add origin https://github.com/Dorothy2020/portfolio-hackathon.git
 
