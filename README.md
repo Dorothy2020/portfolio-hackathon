@@ -105,12 +105,12 @@ touch assets/js/main.js
 
 📑 File Overview
 
-index.html
+# index.html
 
-Main layout of the website, organized into key sections like home, about, projects, services, and contact.
+- Main layout of the website, organized into key sections like home, about, projects, services, and contact.
 
-main.css
-Handles all styling. Includes:
+# main.css
+- Handles all styling. Includes:
 
 CSS variables
 
@@ -120,9 +120,9 @@ Header/nav styling
 
 Scrollbar and component styles
 
-main.js
+# main.js
 
-Adds functionality such as:
+- Adds functionality such as:
 
 Menu toggle
 
@@ -134,13 +134,13 @@ Smooth transitions
 
 🌐 Hosting
 
-The site is deployed on Netlify and works great on all screen sizes.
+- The site is deployed on Netlify and works great on all screen sizes.
 
 🔗 Live Portfolio Website
 
 📤 Pushing to GitHub
 
-If you're starting fresh and want to push this project:
+- If you're starting fresh and want to push this project:
 
 
 git init
