@@ -77,18 +77,29 @@ Google Fonts – Typography
 Swiper.js – Interactive slider on the portfolio section
 
 📑 File Descriptions
+
 ✅ index.html – Main HTML Structure
+
 This file is the heart of the portfolio and includes:
 
 Section	Description
+
 <header>	Contains the navigation bar with links to all sections. Includes responsive toggle for mobile.
+  
 <section id="home">	Hero section introducing Dorothy, with name, profession, and CTA (Call-to-action) button.
+  
 <section id="about">	A short bio with a profile image, goals, and personal story.
+  
 <section id="services">	Highlights the skills/services offered (e.g., UI/UX Design, Web Development, Branding). Each has an icon and short description.
+  
 <section id="portfolio">	Displays projects using a Swiper slider, with project titles, links, and hover effects.
+  
 <section id="contact">	Contact form for visitors to reach out. Includes fields for name, email, message, and a submit button.
+  
 <footer>	Social links, copyright info, and footer navigation.
+  
 ✅ main.css – Styling & Responsiveness
+
 Key features:
 
 CSS Variables for easy theme customization.
@@ -102,6 +113,7 @@ Utility Classes for consistent spacing and typography.
 Transitions & Hover Effects to enhance user experience.
 
 ✅ main.js – Interactivity & Animation
+
 Handles:
 
 Responsive Navbar Toggle (mobile menu)
