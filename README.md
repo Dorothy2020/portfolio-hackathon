@@ -51,15 +51,19 @@ This project showcases the journey of designing and developing a personal portfo
 
 # Clone the repository
 - Open your terminal and run the following command:
+- 
 git clone https://github.com/Dorothy2020/portfolio-hackathon.git
 
 # Navigate into the folder
+
 - Use this command to go into the project directory:
 
 cd portfolio-hackathon
 
 # Open the project in your code editor
+
 - If you're using VS Code, simply run:
+  
 code .
 
 
