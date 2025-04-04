@@ -18,60 +18,6 @@ A portfolio project designed and developed to showcase my skills, projects, qual
 
 ---
 
-## 📁 Project Overview
-
-This portfolio demonstrates a clean, responsive personal website using HTML, CSS, and JavaScript. It covers all essential sections from intro to contact and is styled with custom components, icons, and smooth interactivity.
-
----
-
-## ✍️ Step-by-Step Design Process
-
-### 1. Low-Fidelity Mockup (Sketch on Paper)
-
-Initial layout ideas and structure were drafted by hand to visualize the user flow and section breakdown.
-
-📷 **Sketch Example:**  
-![Low Fidelity Wireframe](https://github.com/user-attachments/assets/b7a1b24f-1035-4e63-bf94-779608daf2a6)
-
----
-
-### 2. High-Fidelity Mockup (Figma Design)
-
-Figma was used to bring the concept to life, refining spacing, alignment, and scaling.
-
-🔗 **Preview Mode:**  
-[🌐 View on Figma](https://www.figma.com/proto/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&p=f&t=3o4nOLcKJ8jGsYyt-0)
-
-🔗 **Full Design File:**  
-[📁 Open Design](https://www.figma.com/design/nejFjWw1pYt2abMhKN7jFx/Dorothy-s-Portfolio?node-id=1-2&t=41IkWuYTRFHd07rv-0)
-
----
-
-## 🛠 Technologies Used
-
-- **HTML5** – Structure  
-- **CSS3** – Styling  
-- **JavaScript (ES6)** – Interactivity  
-- **Google Fonts** – Custom typography  
-- **Remix Icons** – Iconography  
-- **Swiper.js** – Sliders
-
----
-
-## 📂 Project Structure
-
-```bash
-dorothyPortfolio/
-│
-├── index.html
-└── assets/
-    ├── css/
-    │   └── main.css
-    ├── js/
-    │   └── main.js
-    └── img/
-
-
 🖼 Visual Structure:
 
 
@@ -79,7 +25,9 @@ dorothyPortfolio/
 🔁 Clone the Repository
 
 git clone https://github.com/Dorothy2020/portfolio-hackathon.git
+
 cd portfolio-hackathon
+
 ⚙️ Manual Setup Instructions
 Step 1: Create the Project Folder
 
@@ -87,9 +35,7 @@ cd ~/Desktop
 mkdir dorothyPortfolio
 cd dorothyPortfolio
 Step 2: Create Asset Folders
-bash
-Copy
-Edit
+
 mkdir -p assets/css assets/js assets/img
 Step 3: Create Files
 
